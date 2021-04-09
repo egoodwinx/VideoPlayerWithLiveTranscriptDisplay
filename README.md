@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Video Player with Live Transcript Display
 ## Introduction
 I created this application because I prefer having the all of the captions available for my lectures, with the current caption being highlighted. This is how zoom displayers their live transcripts and after my school moved from the zoom cloud, I took it upon myself to create a video player that mimicked this functionality. I created the initial prototype in two days and therefore it's not fully functional.
@@ -22,7 +21,3 @@ The subtitles in the .srt file are combined if a start time is the same as the e
 * Allow changing of video speed
 * Better error handling
 * Logging
-=======
-# VideoPlayerWithLiveTranscriptDisplay
-Plays videos with entire transcript on the side while highlighting the current subtitles.
->>>>>>> 0a19eaddbaf5d68df5b9c658398c40294f9a3500
